@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/mgcdanny/csvCleaner.svg?branch=master)](https://travis-ci.org/mgcdanny/csvCleaner)
 
+
+TODO: add option to include / exclude header row... now it assumes a header row exists always
+
 To make this a 'true' command line tool:
 
 
